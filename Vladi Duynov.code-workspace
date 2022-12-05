@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../Oren Salomon Kot/Day10-HTML-CSS-JS GAMES/Touch-Nums"
+		},
+		{
+			"path": "../../Day9-HTML-CSS-JS/Ex2-Balloons/.vscode"
+		},
+		{
+			"path": "../../../Oren Salomon Kot/Day11-Board Games/EX-ball-board"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Vladi Duynov"
+	}
+}
